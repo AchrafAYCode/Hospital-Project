@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="460.0" prefWidth="600.0" style="-fx-background-color: #C0C0C0;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bib.hospitalproject.PatientMedicamentController">
+    <children>
+        <ToolBar layoutY="24.0" prefHeight="58.0" prefWidth="600.0" style="-fx-background-color: #B9B7BD;">
+            <items>
+                <ComboBox fx:id="PatientComboBox" prefWidth="150.0" promptText="Cin Patient" />
+                <ComboBox fx:id="medicamentComboBox" prefWidth="150.0" promptText="Ref Médicament" />
+                <Button fx:id="buttonAdd" mnemonicParsing="false" onAction="#handleAdd" style="-fx-background-color: #44b89d;" text="Ajouter medicament" textFill="WHITE" />
+            </items>
+        </ToolBar>
+        <TableView fx:id="tablemedPat" layoutY="82.0" prefHeight="356.0" prefWidth="600.0" style="-fx-background-color: #EEEDE7;">
+            <columns>
+                <TableColumn fx:id="colonneCinpat" prefWidth="300.0" text="Patient" />
+                <TableColumn fx:id="colonneRefmed" minWidth="0.0" prefWidth="298.0" text="Référence Medicament " />
+            </columns>
+        </TableView>
+      <Button fx:id="navigateButton" layoutX="14.0" layoutY="12.0" mnemonicParsing="false" onAction="#handleNavigateButton" prefHeight="25.0" prefWidth="36.0" style="-fx-background-color: #686868;" text="&lt;-" />
+      <Button fx:id="closeButton" layoutX="58.0" layoutY="12.0" mnemonicParsing="false" onAction="#handleCloseButton" style="-fx-background-color: red;" text="x" />
+    </children>
+</AnchorPane>

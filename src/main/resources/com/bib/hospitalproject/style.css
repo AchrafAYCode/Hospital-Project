@@ -1,0 +1,13 @@
+.root {
+    -fx-background-image: url("@Image/doctor_login-1_4x.png"); /* Light gray background */
+}
+#btnConn{
+    -fx-background-color: red;
+}
+
+#ap1{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #38a49f, #085d6a);
+}
+#ap2{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #38a49f, #085d6a);
+}

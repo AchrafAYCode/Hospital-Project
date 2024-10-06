@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e16277a8-8c1e-4f51-af92-afb975ab54b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/AcceuilController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/GestionMedicamentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/GestionPatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/InscriptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/PatientMedicamentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/Medicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/MedicamentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/PatientMedicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/PatientMedicamentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/PatientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/Personnel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bib/hospitalproject/data/PersonnelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Acceuil-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/Cahier des Charges Mini-projet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/Man_Blue_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/Shield-and-check-mark.-Approved-.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/ajouter-vert-plus-icone-5215-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/doctor_login-1_4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/insc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/inscriptions_en_ligne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/modif1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/Image/remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/PatientMedicament.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/gestionMedicament.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/gestionPatient.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/inscription.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/se-connecter-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/bib/hospitalproject/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gvaYCJ5WBW0L7gmXLqpIaMzEWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "JUnit.All in HospitalProject.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/tpjava/HospitalProjectt"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bib.hospitalproject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in HospitalProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HospitalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in HospitalProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16277a8-8c1e-4f51-af92-afb975ab54b1" name="Changes" comment="" />
+      <created>1716580549945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716580549945</updated>
+    </task>
+    <servers />
+  </component>
+</project>
